@@ -2,6 +2,28 @@ body {
     margin: 0px;
 }
 
+
+title{
+    font-family: 'Oswald', sans-serif;
+}
+
+h1 strong{
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-size: 45px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+h3{
+    font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+h4{
+    font-family: 'Oswald', sans-serif;
+}
+
 ol,
 ul{
     list-style: none;
@@ -58,7 +80,7 @@ ul{
     margin-right: 0px;
     border-top: 0cm;
 
-    color: #150707;
+    color: white;
     display: flex;
    align-items: center;
    flex-shrink: 0;
