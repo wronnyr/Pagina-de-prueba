@@ -1,2 +1,2 @@
 # Pagina-de-prueba
-una pagina practicando html y css burlandome de un amigo
+una pagina practicando html y css con permiso de un amigo
